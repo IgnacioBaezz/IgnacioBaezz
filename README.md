@@ -5,6 +5,8 @@
 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 ## ✨ About me
 
 <img align="right" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
@@ -20,8 +22,6 @@ I'm not an expert in everything, but I work hard every day to improve, go deeper
 🤝 I believe in honesty, meaningful work, and collaboration
 
 If you'd like to check out what I do or just connect, feel free to reach out!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">My Skills
 
@@ -92,8 +92,6 @@ If you'd like to check out what I do or just connect, feel free to reach out!
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
 ✨ "Simplicity is the ultimate sophistication" Leonardo da Vinci ✨
