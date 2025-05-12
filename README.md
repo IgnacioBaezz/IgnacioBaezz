@@ -11,7 +11,7 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-Hi, I'm Ignacio Báez, a curious fullstack developer who loves learning, sharing knowledge, and working with others. I enjoy building things that are simple yet meaningful, and I believe technology can bring calm, purpose, and well-being.
+Hi, I'm Ignacio Báez, a curious fullstack developer who loves learning, sharing knowledge, and working with others. I enjoy building things that are simple yet meaningful.
 
 I'm not an expert in everything, but I work hard every day to improve, go deeper in what I do, and deliver useful solutions.
 
